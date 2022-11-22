@@ -78,7 +78,7 @@ body {
     color: hsl(221, 23%, 58%);;
     font-size: 1.2rem;
     line-height: 1.1em;
-    font-weight: 400;
+    font-weight: bold;
 }
 
 .main .title-content .title-one .title-below {
@@ -107,7 +107,7 @@ body {
     text-transform: uppercase;
     font-family: 'Barlow Condensed', sans-serif;
     color: hsl(221, 23%, 58%);
-    font-weight: 400;
+    font-weight: bold;
 }
 
 .main .title-content .title-image img {
@@ -130,6 +130,8 @@ body {
     width: 230px;
     height: 520px;
     border-radius: 20px;
+    filter: invert(60%) sepia(43%) saturate(400%) hue-rotate(340deg) brightness(102%) contrast(120%);
+    
 }
 
 .center-content .center-images .image2 {
@@ -137,6 +139,7 @@ body {
     height: 520px;
     border-radius: 20px;
     margin-left: 1em;
+
 }
 
 .center-content .center-text {
@@ -161,7 +164,7 @@ body {
     color: hsl(221, 23%, 58%);;
     font-size: .9rem;
     line-height: 1.5em;
-    font-weight: 400;
+    font-weight: bold;
 }
 /* end of center content */
 
@@ -202,7 +205,7 @@ body {
     color: hsl(221, 23%, 58%);;
     font-size: .9rem;
     line-height: 1.5em;
-    font-weight: 400;
+    font-weight: bold;
 }
 
 /* end of footer content */
