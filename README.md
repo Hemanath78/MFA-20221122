@@ -2,7 +2,7 @@
 
 link to the Website - https://hemanath78.github.io/MFA-20221122/
 
-![Design preview for the News homepage coding challenge](./Design/MFA_two.jpeg)
+![Design preview for the News homepage coding challenge](./design/MFA_two.jpeg)
 
 ## Welcome! 👋
 
