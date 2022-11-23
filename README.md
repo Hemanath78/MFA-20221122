@@ -1,4 +1,4 @@
-# Project homepage
+# Typemaster
 
 link to the Website - https://hemanath78.github.io/MFA-20221122/
 
